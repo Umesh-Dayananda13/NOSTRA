@@ -1,54 +1,26 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/footcap)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/footcap?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/footcap?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BsmRYjW4csw?style=social)](https://youtu.be/BsmRYjW4csw)
+Nostra Website
+A modern, responsive website built with HTML5, CSS3, and JavaScript to showcase frontend development expertise. Designed with a minimalist aesthetic, the project emphasizes clean code, cross-browser compatibility, and seamless adaptability across devices. Key features include dynamic content loading, smooth CSS animations, form validation, and semantic HTML structure. Developed as a demonstration of core web technologies, it utilizes Flexbox/Grid for layouts, Font Awesome icons, and Google Fonts for typography. Ideal for developers seeking to explore frontend best practices or employers reviewing foundational web development skills. Hosted on GitHub with a live demo available. Contributions welcome for enhancing interactivity or expanding features.
 
-  <br />
-  <br />
+Key Highlights
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+Responsive design for mobile/desktop
 
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Pure vanilla JavaScript implementation
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+Modern UI/UX principles
 
-</div>
+Lightweight and performance-focused
 
-<br />
+MIT licensed for open collaboration
 
-### Demo Screeshots
+This description can be used for:
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+GitHub repository overviews
 
-### Prerequisites
+Portfolio project summaries
 
-Before you begin, ensure you have met the following requirements:
+Developer resume entries
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Project documentation introductions
 
-### Run Locally
-
-To run **Footcap** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/footcap.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Let me know if you'd like it adjusted for a specific use case
