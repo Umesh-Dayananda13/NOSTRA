@@ -24,3 +24,6 @@ Developer resume entries
 Project documentation introductions
 
 Let me know if you'd like it adjusted for a specific use case
+
+![NOSTRA Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
